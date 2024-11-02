@@ -15,7 +15,7 @@ body{
   margin: 0;
   text-align: center;
   background: #000;
-  /* background-image: url("C:\Users\shres\Documents\MAIN_PROJECTS\memory_game\magic_match\public\images\cover2.png"); */
+  background-image: url("C:\Users\shres\Documents\MAIN_PROJECTS\memory_game\magic_match\public\images\bg2.1.jpg");
   color: azure;
 }
 
@@ -33,7 +33,7 @@ button {
   cursor: pointer;
   transition: all 0.3s ease;
   position: relative;
-  background: rgb(255,151,0);
+  background: rgb(200, 30, 30);
   border: none;
   z-index: 1;
 }
@@ -46,8 +46,8 @@ button:after {
   left: 0;
   z-index: -1;
   border-radius: 5px;
-  background-color: #eaf818;
-  background-image: linear-gradient(315deg, #eaf818 0%, #f6fc9c 74%);
+  background-color: #1e4840;
+  background-image: linear-gradient(315deg, #229a58 0%, #6d289e 74%);
    box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5,
    7px 7px 20px 0px rgba(0,0,0,.1),
    4px 4px 5px 0px rgba(0,0,0,.1));

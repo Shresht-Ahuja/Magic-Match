@@ -14,7 +14,7 @@ function SingleCard({card, handleChoice, flipped, disabled}){
               <img className='front' src={card.src} alt='card front'></img>
               <img 
               className='back' 
-              src="./images/cover.png" 
+              src="./images/cover2.jpg" 
               onClick={handleClick} 
               alt='card back'></img>
             </div>
